@@ -14,7 +14,7 @@ if (x >= 1 && x < 12) {
   cssStyle.color = "orange";
 } else {
   greeting = "Good night";
-  cssStyle.color = "lite-red";
+  cssStyle.color = "red";
 }
 ReactDom.render(
   <>
